@@ -1,0 +1,22 @@
+Total number of records in the original file  : 10
+
+Total number of records after applying business rules : 10
+
+Year-wise average Sentiment score of the text in the news items' headline for each topic
+
+Topic   Year   Headline sentiment score (avg)
+obama	2015	0
+obama	2016	1
+economy 2015	0
+
+Year-wise average Sentiment score of the text in the news items' title for each topic
+Topic   Year   Title sentiment score (avg)
+obama	2015	0
+obama	2016	1
+economy 2015	0
+
+Top 10 most popular items by average Final value of the news items' popularity on Facebook, GooglePlus, LinkedIn
+
+Rank	item	average_final_popularity_value
+1	item1	200
+2	item2	180
